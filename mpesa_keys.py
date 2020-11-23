@@ -1,0 +1,13 @@
+# business_code = "174379"
+# phone_number= "254705095622"
+# lipa_na_pass_key = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+# consumer_key = "YX6GUpjKWEVk3VjG4UQXkiY81NXlnB3I"
+# consumer_secret = "9kNcA87RyMjSIACX"
+
+business_code = "174379"
+phone_number= "254705095622"
+lipa_na_pass_key ="bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+consumer_key = "YX6GUpjKWEVk3VjG4UQXkiY81NXlnB3I"
+consumer_secret = "9kNcA87RyMjSIACX"
+short_code = "600610"
+test_mssdn = "254708374149"
