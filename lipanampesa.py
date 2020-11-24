@@ -5,26 +5,12 @@ from access_token import generate_access_token
 from encode import generate_password 
 from utils import get_timestamp 
 import mpesa_keys
-
-
-
-
-
 # print(decoded_password)
-
   # With cUrl, you can just pass the correct header with each request
-
-
 my_access_token = generate_access_token()
 formatted_time = get_timestamp()
 decoded_password = generate_password(formatted_time)
-
 # print(my_access_token,"This is an access token")
-
-
-
-
-
 def lipa_na_mpesa():
     access_token = my_access_token
     api_url = "https://sandbox.safaricom.co.ke/mpesa/stkpush/v1/processrequest"
