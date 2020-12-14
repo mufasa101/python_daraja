@@ -24,7 +24,7 @@ def lipa_na_mpesa():
         "PartyA": mpesa_keys.phone_number,
         "PartyB":mpesa_keys.business_code,
         "PhoneNumber": mpesa_keys.phone_number,
-        "CallBackURL": "https://fullstackdjangotest.com",
+        "CallBackURL": "https://serene-coast-15572.herokuapp.com/api/greenpayments/lnm",
         "AccountReference": "BBC-17-a",
         "TransactionDesc": "Pay rent"
     }
